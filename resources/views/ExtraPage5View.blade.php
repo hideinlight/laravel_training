@@ -11,7 +11,7 @@
             <a href="/ExtraPage{{$pageNumber + 1}}View"><button> Next PageB</button> </a>
         @else 
                     <h{{$pageNumber}}> Welcome to page {{$pageNumber}} </h{{$pageNumber}}>
-            <a href="/ExtraPage1View"><button> First Page</button> </a>
+            <a href="/ExtraPage1View"><button> First Page again</button> </a>
         @endif
 
         
